@@ -1,8 +1,8 @@
-import simpleTextApps from "../lib/index";
+import { countVowels } from "../lib/index";
 
 describe("simpleTextApps.countVowels()", () => {
   it("Should output a counted report of the number of vowels in the input.", () => {
-    expect(simpleTextApps.prototype.countVowels("Alex is a good dev.")).toEqual({
+    expect(countVowels("Alex is a good dev.")).toEqual({
       a: 2,
       e: 2,
       i: 1,
