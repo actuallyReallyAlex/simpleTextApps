@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
-    "build": "tsc"
+    "build": "tsc",
+    "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "author": "Alex Lee <alex@alexlee.dev>",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "@babel/preset-typescript": "^7.3.3",
     "@types/node": "^12.6.8",
     "babel-jest": "^24.8.0",
+    "coveralls": "^3.0.5",
     "jest": "^24.8.0",
     "typescript": "^3.5.3"
   }
