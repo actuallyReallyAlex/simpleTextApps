@@ -7,8 +7,7 @@ describe("simpleTextApps.countVowels()", () => {
       e: 2,
       i: 1,
       o: 2,
-      u: 0,
-      y: 0
+      u: 0
     });
   });
 });
