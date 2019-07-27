@@ -2,6 +2,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/alexlee-dev/simpleTextApps/badge.svg?branch=ci)](https://coveralls.io/github/alexlee-dev/simpleTextApps?branch=ci) [![Build Status](https://travis-ci.org/alexlee-dev/simpleTextApps.svg?branch=master)](https://travis-ci.org/alexlee-dev/simpleTextApps)
 
+> A collection of simple functions and applications around text and basic JavaScript fundamentals.
+
 [Inspiration](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
 ## ✅ Reverse a String
