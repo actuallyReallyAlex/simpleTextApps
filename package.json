@@ -1,7 +1,7 @@
 {
   "name": "simple-text-apps",
   "version": "1.0.0",
-  "description": "A series of simple text applications. Inspired by dreamincode.net.",
+  "description": "A collection of simple functions and applications around text and basic JavaScript fundamentals.",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
@@ -19,5 +19,11 @@
     "coveralls": "^3.0.5",
     "jest": "^24.8.0",
     "typescript": "^3.5.3"
-  }
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ]
 }
