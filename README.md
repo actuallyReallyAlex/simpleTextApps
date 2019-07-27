@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=256px height=256px src="https://github.com/alexlee-dev/portfolio/raw/master/simple-text-apps.svg?sanitize=true" alt="Simple Text Apps"></a>
+ <img width=256px height=256px src="https://github.com/alexlee-dev/simpleTextApps/raw/master/simple-text-apps.svg?sanitize=true" alt="Simple Text Apps"></a>
 </p>
 
 <h3 align="center">Simple Text Apps</h3>
