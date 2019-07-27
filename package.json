@@ -1,6 +1,6 @@
 {
   "name": "simple-text-apps",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A series of simple text applications. Inspired by dreamincode.net.",
   "main": "lib/index.js",
   "scripts": {
