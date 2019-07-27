@@ -1,6 +1,6 @@
 {
   "name": "simple-text-apps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of simple functions and applications around text and basic JavaScript fundamentals.",
   "main": "lib/index.js",
   "scripts": {
